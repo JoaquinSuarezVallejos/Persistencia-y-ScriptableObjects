@@ -2,8 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-
-[CreateAssetMenu (fileName = "EnemyData",menuName ="SO Enemy Data")]
+[CreateAssetMenu (fileName = "EnemyData", menuName = "SO Enemy Data")]
 public class EnemyDataSO : ScriptableObject
 {
     public bool defeated;
